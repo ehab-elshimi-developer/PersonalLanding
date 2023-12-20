@@ -1,4 +1,3 @@
-Markdown
 #  My First CSS Landing Page 
 
 **Overview**
@@ -28,12 +27,6 @@ Through this project, I gained foundational skills in:
 **Current Progress**
 
 I've expanded my web design skillset significantly since building this landing page. I'm now proficient in crafting responsive websites that adapt seamlessly to different screen sizes, ensuring optimal user experiences across devices.
-
-**Additional Notes**
-
-- This project is for demonstration purposes only and is not intended for live deployment.
-- I welcome any feedback or suggestions for improvement!
-
 
 **Screenshot**
 
