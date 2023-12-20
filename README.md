@@ -1,4 +1,4 @@
-#  My First CSS Landing Page 
+# CSS Landing Page 
 
 **Overview**
 
